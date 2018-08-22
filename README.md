@@ -80,13 +80,13 @@ Libft is a School 42 project. The purpose of this project is create own C librar
 
 **Added personally**
 
-* [ft_isupper](/libft/ft_isupper.c)
-* [ft_islower](/libft/ft_islower.c)
-* [ft_isspace](/libft/ft_isspace.c)
-* [ft_isblank](/libft/ft_isblank.c)
+* [ft_isupper](/libft/ft_isupper.c) (standard function)
+* [ft_islower](/libft/ft_islower.c) (standard function)
+* [ft_isspace](/libft/ft_isspace.c) (standard function)
+* [ft_isblank](/libft/ft_isblank.c) (standard function)
 * [ft_lstaddback](/libft/ft_lstaddback.c)
-* [ft_strndup](/libft/ft_strndup.c)
-* [ft_strnlen](/libft/ft_strnlen.c)
+* [ft_strndup](/libft/ft_strndup.c) (standard function)
+* [ft_strnlen](/libft/ft_strnlen.c) (standard function)
 * [ft_strlwr](/libft/ft_strlwr.c)
 * [ft_strupr](/libft/ft_strupr.c)
 * [ft_strrev](/libft/ft_strrev.c)
