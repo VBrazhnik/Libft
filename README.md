@@ -87,7 +87,7 @@ Libft is a School 42 project. The purpose of this project is create own C librar
 * [ft_lstaddback](/libft/ft_lstaddback.c)
 * [ft_strndup](/libft/ft_strndup.c) (standard function)
 * [ft_strnlen](/libft/ft_strnlen.c) (standard function)
-* [ft_strlwr](/libft/ft_strlwr.c) ([wiki](wiki/ft_strlwr))
+* [ft_strlwr](/libft/ft_strlwr.c) ([wiki](../../wiki/ft_strlwr))
 * [ft_strupr](/libft/ft_strupr.c)
 * [ft_strrev](/libft/ft_strrev.c)
 * [ft_strchrs](/libft/ft_strchrs.c)
